@@ -1,0 +1,45 @@
+
+body {
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+
+	div, p {
+		font-family: Arial, sans-serif;
+		text-align: left;
+	}
+
+
+	#outerWrapper {
+		width: 100%;
+		max-width: 1280px;
+		-webkit-box-sizing: border-box;
+		   -moz-box-sizing: border-box;
+				box-sizing: border-box;
+		margin: 0 auto;
+
+		header {
+			nav {
+			}
+		}
+
+		main {
+
+			h1 {
+				text-align: center;
+			}
+
+			section {
+			}
+		}
+
+		footer {
+		}
+	}
+
+	@media screen and (max-width: 800px) {
+		background-color: #ddd;
+	}
+
+
+}
