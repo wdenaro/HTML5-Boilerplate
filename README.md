@@ -3,7 +3,7 @@
 
 ## Content
 ---
-Base HTML template with supporting folder structure for images, scripts and styles. jQuery and GSAP libraries referenced as well.
+Base HTML template with supporting folder structure for images, scripts and styles. CDN JQuery 3.5.1 and Bootstrap 4.4.1 libraries referenced as well.
 
 
 ## Author
